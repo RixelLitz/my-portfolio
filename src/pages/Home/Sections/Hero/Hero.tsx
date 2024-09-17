@@ -1,9 +1,9 @@
 const Hero = () => {
   return(
       <>
-      <section>
-        <div className="container">
-          
+      <section className="h-screen">
+        <div className="bg-black w-full h-full">
+            <h1 className="text-gray-700 ">teste</h1>
         </div>
       </section>
       </>
